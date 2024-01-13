@@ -9,4 +9,5 @@ MCR mainly focus on policy selection using RL.
 
 
 ## Multiple rounds of conversation recommendation(MCR)
-+ DeepCPR : Deep Path Reasoning Using Sequence of User-Preferred Attributes for Conversational Recommendation（**TKDD 2023**）
++ DeepCPR : Deep Path Reasoning Using Sequence of User-Preferred Attributes for Conversational Recommendation（**TKDD 2023**）[DeepCPR](https://dl.acm.org/doi/pdf/10.1145/3610775)
++ 
