@@ -8,4 +8,4 @@ MCR mainly focus on policy selection using RL.
 ## CRS 
 
 
-## MCR
+## Multiple rounds of conversation recommendation(MCR)
