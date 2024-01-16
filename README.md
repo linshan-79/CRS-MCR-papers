@@ -10,4 +10,5 @@ MCR mainly focus on policy selection using RL.
 
 ## Multiple rounds of conversation recommendation(MCR)
 + DeepCPR : Deep Path Reasoning Using Sequence of User-Preferred Attributes for Conversational Recommendation（**TKDD 2023**）[DeepCPR](https://dl.acm.org/doi/pdf/10.1145/3610775)
-+ 
++ Meta-CRS: A Dynamic Meta-Learning Approach for Effective Conversational Recommender System [Meta-CRS](https://dl.acm.org/doi/10.1145/3604804)
++ Knowledge Graph Attention Network with Attribute Significance for Personalized Recommendation [KG-Personalized Rec](https://link.springer.com/article/10.1007/s11063-022-11077-0)
